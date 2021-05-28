@@ -1,0 +1,47 @@
+.small {
+  font-size: 10px;
+}
+
+.headerSmall {
+  font-size: 20px;
+}
+
+.headerMedium {
+  font-size: 40px;
+}
+
+.headerSmallMedium {
+  font-size: 30px;
+}
+
+.headerMediumLarge {
+  font-size: 50px;
+}
+
+.headerLarge {
+  font-size: 60px;
+}
+
+.small {
+  font-size: 10px;
+}
+
+.footerSmall {
+  font-size: 60px;
+}
+
+.footerMedium {
+  font-size: 80px;
+}
+
+.footerSmallMedium {
+  font-size: 100px;
+}
+
+.footerMediumLarge {
+  font-size: 150px;
+}
+
+.footerLarge {
+  font-size: 200px;
+}
