@@ -2,7 +2,5 @@
   text-align: center;
 }
 @keyframes App-logo-spin {
-  to {
-    transform: rotate(360deg);
-  }
+
 }
