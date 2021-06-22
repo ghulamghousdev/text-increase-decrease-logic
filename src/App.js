@@ -27,7 +27,7 @@ function App() {
       <button onClick={(e) => chng(e)}>increaseSize</button>
       <button>decreaseSize</button>
       <p className={`header${fontType}`}>
-        Some text to have its text adjusted by the buttons just up there.
+        Testing the fonts
       </p>
 
       <blockquote className={`footer${fontType}`}>
