@@ -11,8 +11,6 @@ function App() {
       setFontType("Small");
     } else if (sliderValue === 20) {
       setFontType("Medium");
-    } else if (sliderValue === 30) {
-      setFontType("SmallMedium");
     } else if (sliderValue === 40) {
       setFontType("Large");
     }
